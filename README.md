@@ -1,7 +1,11 @@
+<img src="https://cdn.discordapp.com/attachments/994337980967817279/996576095077945364/rafa.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Rafael-pic">
+
 ### Prazer, eu sou Rafael Candeias do Carmo!
 
 - 🎓 Análise e Desenvolvimento de Sistemas
 - 🧑🏿‍💻 Estudando no bootcamp de .Net da Generation Brasil
+
+#
 
 <div align="center">
   <a href="https://github.com/RafaelCandeias00">
@@ -22,4 +26,7 @@
   <div align="center">
     <a href = "mailto:rafaelcandeias39@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/rafael-candeias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     
   </div>
+  
+ 
