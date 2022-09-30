@@ -3,7 +3,7 @@
 ### Prazer, eu sou Rafael Candeias do Carmo!
 
 - 🎓 Análise e Desenvolvimento de Sistemas
-- 🧑🏿‍💻 Estudando no bootcamp de .Net da Generation Brasil
+- 🎓 Bootcamp de .Net da Generation Brasil
 
 #
 
