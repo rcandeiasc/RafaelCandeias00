@@ -17,7 +17,6 @@ Atualmente sou formado pelo bootcamp de Pessoa Desenvolvedora .Net da Generation
 ## Formação
 - 🎓 Técnico em Informática
 - 🎓 Análise e Desenvolvimento de Sistemas
-- 🎓 Bootcamp de .Net da Generation Brasil 
 
 <br/>
 
