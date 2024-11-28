@@ -1,6 +1,6 @@
 ## Olá 👋, meu nome é Rafael Candeias! 
 
-<a href="https://github.com/RafaelCandeias00" target="_blank">
+<a href="https://github.com/rcandeiasc" target="_blank">
 <a href="https://linkedin.com/in/rafael-candeias" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
