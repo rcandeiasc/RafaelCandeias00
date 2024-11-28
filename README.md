@@ -9,11 +9,11 @@
 </a>  
 
 ### UM POUCO SOBRE MIM! 
-Graduado em Análise e Desenvolvimento de Sistemas, participei do bootcamp de programação onde desenvolvi e aprimorei soft skill como: gestão de tempo, trabalho em equipe, atenção ao detalhe, comunicação e liderança. 
+Graduando em Administração e formado em Análise e Desenvolvimento de Sistemas, possuo experiência tanto na área administrativa quanto em desenvolvimento de software. Participei de um bootcamp de programação, onde desenvolvi competências como gestão de tempo, trabalho em equipe, atenção aos detalhes, comunicação eficaz e liderança. Durante o bootcamp, utilizei a metodologia ágil SCRUM para o desenvolvimento de uma rede social chamada Amina, aprimorando habilidades técnicas e organizacionais.
 
-Para a realização do projeto usamos a metodologia ágil SCRUM, onde pratiquei minhas habilidades com programa ao longo do desenvolvimento de uma rede social. 
+Na parte técnica, desenvolvi o back-end da aplicação em C# com o uso de ASP .Net, SQL Server para o banco de dados, JWT para autenticação de token, e realizei testes de API com Postman. Para a interface, utilizei HTML, CSS e implementei operações de CRUD com JavaScript e TypeScript, utilizando React para a exibição e coleta de dados do usuário.
 
-Com os conhecimentos necessários, o back-end da rede social foi desenvolvida com C# utilizando a biblioteca ASP .Net, SQL Server para armazenamento de dados, JWT para autenticação de token e Postman para realização de testes. Para a estruturação e estilização foi utilizado HTML e CSS, as operações de CRUD foi realizado com JavaScript e TypeScript com auxílio da biblioteca React, sendo possível coletar e exibir dados para o usuário. 
+Atualmente, atuo como estagiário administrativo na Prefeitura Municipal de São José dos Campos, onde continuo aprimorando minhas habilidades organizacionais e de aprendizado contínuo.
 
 ### EDUCAÇÃO
 - 👨🏾‍🎓 Administração
